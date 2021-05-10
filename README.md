@@ -6,3 +6,23 @@ The goal for this visualisation was to portray how COVID-19 impacted South Korea
 Judging from the charts, it can be concluded that despite having a very rocky start with the pandemic, the number of COVID-19 cases eventually dwindled down to a few hundred each day thanks to fast-acting and strict testing and regulations. Quite impressive for a country with a population of ~51 million. 
 
 Data was wrangled and organised using R with the lubridate library helping out tremendously with the time series data.
+
+# Charts
+
+<h3>Cases by Region</h3>
+<img src="Screenshots/cases-by-region.PNG" height="400" width="600">
+
+<br>
+
+<h3>Cases Over Time</h3>
+<img src="Screenshots/cases-over-time.PNG" height="400" width="600">
+
+<br>
+
+<h3>Ways of Infection</h3>
+<img src="Screenshots/reasons-for-infection.PNG" height="400" width="600">
+
+<br>
+
+<h3>Cases by Age Group</h3>
+<img src="Screenshots/cases-by-age.PNG" height="400" width="600">
