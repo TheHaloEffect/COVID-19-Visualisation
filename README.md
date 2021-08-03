@@ -1,4 +1,4 @@
-# Impact of COVID-19 in South Korea
+# Description
 A data visualisation story of the impact of COVID-19 in South Korea. Developed using Jupyter Notebook and R. The dataset for the visualisation came from Kaggle here at this link: https://www.kaggle.com/kimjihoo/coronavirusdataset. The dataset contains continuous, categorical, location, temporal and text data across several CSV files. Data was wrangled and organised using R with the lubridate library helping out tremendously with the time series data and ggplot2 for plotting the data.
 
 # Goal 
